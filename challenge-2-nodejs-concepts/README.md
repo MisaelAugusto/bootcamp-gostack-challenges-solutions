@@ -26,6 +26,7 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 <h2 id="evaluation">⭐️ Avaliação</h2>
 
 A implementação do desafio recebeu nota máxima!
+
 <img src="./src/assets/evaluation.png" alt="Avaliação do desafio" width="70%" />
 
 <h2 id="license">📜️ Licença</h2>

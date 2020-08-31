@@ -28,6 +28,7 @@ Defina qual será seu horário de estudo, criando tarefas que estarão atreladas
 <h2 id="evaluation">⭐️ Avaliação</h2>
 
 A implementação do desafio recebeu nota máxima!
+
 <img src="./assets/evaluation.png" alt="Avaliação do desafio" width="70%" />
 
 <h2 id="license">📜️ Licença</h2>

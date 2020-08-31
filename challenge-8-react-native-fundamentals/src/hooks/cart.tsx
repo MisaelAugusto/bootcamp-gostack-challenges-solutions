@@ -30,6 +30,8 @@ const CartProvider: React.FC = ({ children }) => {
 
   useEffect(() => {
     async function loadProducts(): Promise<void> {
+      await AsyncStorage.removeItem('products');
+
       const productsList = await AsyncStorage.getItem('products');
 
       if (productsList) {

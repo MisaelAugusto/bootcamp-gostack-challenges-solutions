@@ -21,11 +21,12 @@ Agora você deve continuar desenvolvendo a aplicação que irá armazenar reposi
 
 <h2 id="preview">📽️ Demonstração</h2>
 
-<img src="./src/assets/preview.gif" alt="Demonstração" width="80%" />
+<img src="./src/assets/preview.gif" alt="Demonstração" height="50%" />
 
 <h2 id="evaluation">⭐️ Avaliação</h2>
 
 A implementação do desafio recebeu nota máxima!
+
 <img src="./src/assets/evaluation.png" alt="Avaliação do desafio" width="70%" />
 
 <h2 id="license">📜️ Licença</h2>

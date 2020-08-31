@@ -28,6 +28,7 @@ Define what'll be your study schedule, creating tasks that will be attached to a
 <h2 id="evaluation">⭐️ Evaluation</h2>
 
 The implementation of the challenge received top marks!
+
 <img src="./assets/evaluation.png" alt="Challenge evaluation" width="70%" />
 
 <h2 id="license">📜️ License</h2>

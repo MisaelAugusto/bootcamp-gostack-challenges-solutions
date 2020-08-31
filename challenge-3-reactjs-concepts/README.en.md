@@ -26,6 +26,7 @@ Now you must continue to develop the application that will store your portfolio 
 <h2 id="evaluation">⭐️ Evaluation</h2>
 
 The implementation of the challenge received top marks!
+
 <img src="./src/assets/evaluation.png" alt="Challenge evaluation" width="70%" />
 
 <h2 id="license">📜️ License</h2>

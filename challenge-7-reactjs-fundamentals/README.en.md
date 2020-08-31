@@ -26,6 +26,7 @@ This will be an application that will connect to your Challenge 06 backend, and 
 <h2 id="evaluation">⭐️ Evaluation</h2>
 
 The implementation of the challenge received top marks!
+
 <img src="./src/assets/evaluation.png" alt="Challenge evaluation" width="70%" />
 
 <h2 id="license">📜️ License</h2>
